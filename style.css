@@ -65,7 +65,7 @@ button{
 }
 
 .hommie {
-    display:inline-block;
+    display: inline-block;
     margin: 2vw;
 }
 
@@ -190,7 +190,7 @@ button{
 }
 
 .grid_box{
-    display:grid;
+    display: grid;
     grid-template-rows: fit-content fit-content fit-content;
     grid-template-columns: 1fr 1fr 1fr;
     column-gap: 1vw;
